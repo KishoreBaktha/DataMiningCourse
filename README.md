@@ -6,4 +6,6 @@ The following programs were implemented -
 1. Finding similarity of documents.
 2. Finding frequent itemsets using Apriori Algorithm
 3. Implementing Triest Algorithm to compute the number of triangles
+4. Implementing spectral graph clustering algorithm
+5. Jabega Algorithm
 
