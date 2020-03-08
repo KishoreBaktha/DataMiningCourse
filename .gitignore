@@ -1,0 +1,12 @@
+/labs/*/data
+/labs/*/target
+/labs/*/project
+*.class
+*.cache
+*.xml
+*.css
+*.xsl
+*.properties
+*.history
+/labs/.idea
+*.iml
